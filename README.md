@@ -1,2 +1,1 @@
-# Food-Quality-Monitoring-System
-An IoT-based Food Quality Monitoring System that monitors environmental parameters associated with food freshness and storage conditions
+Food Quality Monitoring System is an IoT-based embedded system designed to continuously monitor environmental conditions that affect food freshness and safety. The system measures temperature, humidity, ambient light, gas concentration, and pH levels using multiple sensors connected to an ESP32. These parameters can be used to detect conditions that may indicate food spoilage or improper storage.
